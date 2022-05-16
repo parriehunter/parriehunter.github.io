@@ -141,6 +141,14 @@ nav a:hover:not(.active) {
     padding-top: 10px;
     padding-right: 15px;
 }
+.dinkImage {
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 15px;
+}
 
 /*when using the anchour links in menuBar this was added to stop the navbar getting in in the way of showing the menuTypes*/
 h3 { 
